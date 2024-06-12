@@ -1394,6 +1394,9 @@ img {
     }
 }
 .testimonial-content .single-testimonial img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
     width: auto !important;
     margin: 0 auto;
 }
